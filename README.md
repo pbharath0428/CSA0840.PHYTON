@@ -13,3 +13,6 @@
 13.words strings
 14.remove common words
 15.calculater
+16.basic calculator
+17.regular exprestion
+18.paransics
